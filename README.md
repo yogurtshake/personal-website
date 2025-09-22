@@ -4,13 +4,13 @@
 
 ## What's Happening Here?
 
-not much
+not much, just a static page linking to my webapps
 
 ## Dependencies: 
 
 ### app functionality
 
-nothing (so far just a static webpage)
+no functionality yet (so far just a static webpage)
 
 ### hosting functionality
 
